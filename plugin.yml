@@ -1,0 +1,10 @@
+main: main.Hellmode
+name: ERhellmode
+author: EggyRepublic
+version: A1.1.1
+description: Anti-heal   
+api-version: 1.16
+commands:
+  hellmode:
+    description: toggle player's regeneration capabilities
+    usage: /hellmode [player name] or /hellmode info [player name]
