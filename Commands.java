@@ -14,7 +14,6 @@ public class Commands implements CommandExecutor {
 		this.h = h;
 	}
 
-    // This method is called, when somebody uses our command
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
     	if (label.equalsIgnoreCase("hellmode")) {
